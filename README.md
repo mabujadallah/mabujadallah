@@ -1,16 +1,13 @@
-## Hi there 👋
+# Mahmoud S. Y. Abujadallah
 
-<!--
-**mabujadallah/mabujadallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Student at ETS Montreal focused on AI for Software Engineering, Agentic AI, and Large Language Models.
 
-Here are some ideas to get you started:
+- Website: https://mabujadallah.github.io/
+- GitHub: https://github.com/mabujadallah
+- LinkedIn: https://www.linkedin.com/in/mahmoud-abujadallah-88104a176/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- AI for Software Engineering
+- Agentic AI
+- Large Language Models
+- Prompt Engineering
